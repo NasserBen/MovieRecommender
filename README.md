@@ -2,9 +2,9 @@
 
 #  Movie Recommender
  
- > Authors: \<[Evan Fang](https://github.com/evanzfang)\>
+ > Authors: \<[Nasser Ben](https://github.com/nasserben)\>
+ >          \<[Evan Fang](https://github.com/evanzfang)\>
  >          \<[Maliha Fatima](https://github.com/mfatima1)\>
- >          \<[Nasser Ben](https://github.com/nasserben)\>
  >          \<[Joy Haddad](https://github.com/JoyHaddad)\>
 
 
