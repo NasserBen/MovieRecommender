@@ -4,12 +4,11 @@
  
  > Authors: \<[Evan Fang](https://github.com/evanzfang)\>
  >          \<[Maliha Fatima](https://github.com/mfatima1)\>
- >          \<[Nasser Ben Yedder](https://github.com/nasserben)\>
+ >          \<[Nasser Ben](https://github.com/nasserben)\>
  >          \<[Joy Haddad](https://github.com/JoyHaddad)\>
 
 
 ## Project Description
- > * Movies are a great way to escape reality and avoid projects like these.
  > * C++, a general object oriented programming language.
  > * Visual Studio Code, IDE
  > * Github, version control using git.
@@ -36,6 +35,6 @@ The Movie class contains strings with attributes of the movies in the database. 
  
 
  ## Testing
- > To test our code, we used test driven development. So we implemented unit testing with the google test submodule to test our classes. We also utilized exception handling with try, throw and catch statements to test for input validation from the user. With unit testing, we used tests that would make sure we get the correct expected values with the Movie class and we also used tests that would make sure no exceptions were being thrown in the movieList, genreList and directorList classes. To run the tests, the run the command ```cmake .``` folloed by ```make``` and finally run the executable ```./bin/runAllTests``` This will output whether the tests pass or fail.
+ > To test our code, we used test driven development. So we implemented unit testing with the google test submodule to test our classes. We also utilized exception handling with try, throw and catch statements to test for input validation from the user. With unit testing, we used tests that would make sure we get the correct expected values with the Movie class and we also used tests that would make sure no exceptions were being thrown in the movieList, genreList and directorList classes. To run the tests, the run the command ```cmake .``` followed by ```make``` and finally run the executable ```./bin/runAllTests``` This will output whether the tests pass or fail.
  
  
